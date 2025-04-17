@@ -1,1 +1,1 @@
-# Prosty-kalkulator-dw-ch-liczb
+# Prosty-kalkulator-dwoch-liczb
