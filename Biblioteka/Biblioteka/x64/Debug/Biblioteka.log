@@ -1,3 +1,0 @@
-﻿  Biblioteka.cpp
-C:\Users\OLX\source\repos\Biblioteka\Biblioteka\Biblioteka.cpp(144,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  Biblioteka.vcxproj -> C:\Users\OLX\source\repos\Biblioteka\x64\Debug\Biblioteka.exe
