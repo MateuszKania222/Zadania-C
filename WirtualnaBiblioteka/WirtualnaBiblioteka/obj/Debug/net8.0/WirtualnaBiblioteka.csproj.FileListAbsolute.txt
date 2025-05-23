@@ -1,0 +1,15 @@
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\bin\Debug\net8.0\WirtualnaBiblioteka.exe
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\bin\Debug\net8.0\WirtualnaBiblioteka.deps.json
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\bin\Debug\net8.0\WirtualnaBiblioteka.runtimeconfig.json
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\bin\Debug\net8.0\WirtualnaBiblioteka.dll
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\bin\Debug\net8.0\WirtualnaBiblioteka.pdb
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\obj\Debug\net8.0\WirtualnaBiblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\obj\Debug\net8.0\WirtualnaBiblioteka.AssemblyInfoInputs.cache
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\obj\Debug\net8.0\WirtualnaBiblioteka.AssemblyInfo.cs
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\obj\Debug\net8.0\WirtualnaBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\obj\Debug\net8.0\WirtualnaBiblioteka.sourcelink.json
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\obj\Debug\net8.0\WirtualnaBiblioteka.dll
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\obj\Debug\net8.0\refint\WirtualnaBiblioteka.dll
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\obj\Debug\net8.0\WirtualnaBiblioteka.pdb
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\obj\Debug\net8.0\WirtualnaBiblioteka.genruntimeconfig.cache
+C:\Users\OLX\source\repos\WirtualnaBiblioteka\WirtualnaBiblioteka\obj\Debug\net8.0\ref\WirtualnaBiblioteka.dll
